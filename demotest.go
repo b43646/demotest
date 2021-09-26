@@ -1,5 +1,5 @@
 package demotest
 
-func getString() string {
+func GetString() string {
 	return "Hello Modules"
 }
