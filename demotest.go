@@ -1,5 +1,5 @@
 package demotest
 
 func GetString() string {
-	return "Hello Modules"
+	return "Hello Modules123"
 }
